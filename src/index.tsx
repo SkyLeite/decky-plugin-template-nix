@@ -53,7 +53,7 @@ const Content: VFC<{ serverAPI: ServerAPI }> = ({}) => {
             )
           }
         >
-          Server says yolo
+          Server says test!
         </ButtonItem>
       </PanelSectionRow>
 

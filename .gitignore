@@ -1,3 +1,5 @@
+/.direnv/
+
 lib-cov
 *.seed
 *.log
